@@ -397,6 +397,7 @@ ul {
     position: fixed;
     color: #fff;
     height: 40px;
+	border-radius: 25px !important;
     width: 40px;
     line-height: 40px;
     background-color: #6ec25b;
@@ -1910,13 +1911,13 @@ ul {
     height: 50px;
     width: 150px;
     text-align: center;
-    background: #fff;
+    background: #2c313e;
     font-size: 14px;
     font-weight: 600;
     text-transform: capitalize;
     display: inline-block;
-    color: #6ec25b;
-    border: 1px solid #6ec25b;
+    color: #FFF;
+    border: 1px solid #2c313e;
     -webkit-transition: all 0.3s ease-in;
     -webkit-transition: all 0.5s ease-in;
     transition: all 0.5s ease-in;
@@ -1942,7 +1943,7 @@ ul {
 ==========================================*/
 
 .footer {
-    background: #28292d;
+    background: #293531;
     padding: 120px 0 106px;
 }
 
@@ -2001,11 +2002,11 @@ ul {
 }
 
 .copyright {
-    background: #030d26;
+    background: #293531;
 }
 
 .copyright .border-top {
-    border-top: 1px solid #172a5b !important;
+    border-top: 1px solid #FFF !important;
 }
 
 .copyright p {
