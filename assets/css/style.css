@@ -4526,7 +4526,7 @@ div#map {
 
 #JDIV_5 {
     background-color: rgb(42, 46, 83);
-    background-image: url("assets/img/h3-bg-testimonal01.jpg");
+    background-image: url("../../assets/img/h3-bg-testimonal01.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     border-bottom-color: rgb(103, 109, 112);
@@ -4574,7 +4574,7 @@ div#map {
     -webkit-text-stroke-color: rgb(103, 109, 112);
     transform-origin: 322.5px 319.391px;
     caret-color: rgb(103, 109, 112);
-    background: rgb(42, 46, 83) url("assets/img/h3-bg-testimonal01.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
+    background: rgb(42, 46, 83) url("../../assets/img/h3-bg-testimonal01.jpg") no-repeat scroll 0% 0% / cover padding-box border-box;
     border: 0px none rgb(103, 109, 112);
     border-top: 0px none rgb(103, 109, 112);
     border-right: 0px none rgb(103, 109, 112);
